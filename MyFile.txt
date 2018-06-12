@@ -1,3 +1,4 @@
 Hello, Git
 Modify user
-do sth on branch master
+do sth on branch master( hiokobe8 )
+git reabse -i HEAD^
