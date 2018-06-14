@@ -2,5 +2,3 @@ Hello, Git
 Modify user
 do sth on branch master( hiokobe8 )
 git reabse -i HEAD^
-good giter
-git rebase again
